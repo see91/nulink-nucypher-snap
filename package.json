@@ -1,0 +1,15 @@
+{
+  "name": "nulink-nucypher-snap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nucypher_core_wasm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "see91<isee_wang@outlook.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/x-textdecoder": "^12.6.1"
+  }
+}
