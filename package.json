@@ -1,6 +1,6 @@
 {
   "name": "nulink-nucypher-snap",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "nulink nucypher snap",
   "main": "./dist/nulink-nucypher-snap.umd.js",
   "module": "./dist/nulink-nucypher-snap.es.js",
